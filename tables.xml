@@ -1,0 +1,10 @@
+<object-stream>
+  <list>
+    <application.SeatingTable>
+      <number>20</number>
+      <department>Bar</department>
+      <capacity>20</capacity>
+      <availability>Available</availability>
+    </application.SeatingTable>
+  </list>
+</object-stream>

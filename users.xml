@@ -1,0 +1,20 @@
+<object-stream>
+  <list>
+    <application.Manager>
+      <ppsNum>4311271x</ppsNum>
+      <name>ben</name>
+      <password>londis13</password>
+      <phoneNumber>051389913</phoneNumber>
+      <department>Restaurant</department>
+      <managerIdNum>ben2020</managerIdNum>
+    </application.Manager>
+    <application.Employee>
+      <ppsNum>4311272x</ppsNum>
+      <name>b</name>
+      <password>londis14</password>
+      <phoneNumber>051389912</phoneNumber>
+      <department>Restaurant</department>
+      <employeeIdNum>ben2p</employeeIdNum>
+    </application.Employee>
+  </list>
+</object-stream>
